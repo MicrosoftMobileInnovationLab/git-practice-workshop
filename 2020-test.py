@@ -2,7 +2,7 @@ import time
 
 def test(x, y):
     if(y==0):
-        return y
+        return x
     return test(y, y%x)
 
 for i in range(0, 10):
