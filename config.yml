@@ -3,3 +3,4 @@ services:
   name: helloworld
   willitwork: no
   test: yes
+  test2: no
