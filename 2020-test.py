@@ -8,3 +8,5 @@ def test(x, y):
 for i in range(0, 10):
     print('GCD of {} with 2 : '.format(i), test(2, 10))
 
+for i in range(0, 10):
+    print('GCD of {} with 2 : '.format(i), test(2, 10))
